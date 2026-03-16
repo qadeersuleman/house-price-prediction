@@ -1,0 +1,1 @@
+This is a placeholder file for `model.pkl`. Run `src/train.py` to create a real model.
